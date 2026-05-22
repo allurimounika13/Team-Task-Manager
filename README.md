@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Team Task Manager
 
-# Run and deploy your AI Studio app
+A full-stack collaborative project and task management application designed to help teams organize projects, assign tasks, and monitor progress efficiently.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/2f4c47ed-5bea-4041-8263-6f575d2135bc
+- User Authentication (Signup/Login)
+- Project Management
+- Team Collaboration
+- Task Assignment System
+- Task Status Tracking
+- Dashboard Overview
+- Role-Based Access Control (Admin / Member)
+- Secure Backend Integration
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Project Structure
