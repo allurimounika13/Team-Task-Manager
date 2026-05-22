@@ -1,0 +1,6 @@
+{
+  "name": "Team Task Manager",
+  "description": "A full-stack collaborative project and task management dashboard with authentic, secure, role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
